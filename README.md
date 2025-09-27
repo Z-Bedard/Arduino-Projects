@@ -3,6 +3,8 @@
 This repository contains a collection of **Arduino projects** focused on learning and applying concepts in **embedded systems, microcontroller programming, and hardware prototyping**.  
 The projects range from basic sensor interfacing to more complex control systems, highlighting the integration of hardware and software in real-world applications.  
 
+I pursue Arduino projects not only for learning, but also because I genuinely **enjoy building and experimenting with hardware**.  
+
 ---
 
 ## 📚 Concepts & Skills Learned
