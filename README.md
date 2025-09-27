@@ -34,7 +34,7 @@ I pursue Arduino projects not only for learning, but also because I genuinely **
 ## 🛠️ Tools & Hardware
 
 - **Arduino IDE** (or VS Code with PlatformIO) – code development and uploading  
-- **Arduino Boards** (e.g., Arduino Uno, Nano, Mega)  
+- **Arduino Boards**  
 - **Common Components**: LEDs, push buttons, resistors, sensors, motors, LCD/serial displays  
 - **Serial Monitor / Serial Plotter** – for debugging and visualization  
 
